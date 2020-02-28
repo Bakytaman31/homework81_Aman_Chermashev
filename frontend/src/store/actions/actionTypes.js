@@ -1,0 +1,1 @@
+export const POSTED_SUCCESS = 'POSTED_SUCCESS';
